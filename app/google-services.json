@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89136026114",
+    "firebase_url": "https://admining-b7149.firebaseio.com",
+    "project_id": "admining-b7149",
+    "storage_bucket": "admining-b7149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89136026114:android:2efd0621c6063548b9cd1b",
+        "android_client_info": {
+          "package_name": "com.ventulabs.admining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89136026114-8cul9otej91gqdnnm745o86sj487huf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2IIjjaKqxg17xovcMwci7S2A-AC42eKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89136026114-8cul9otej91gqdnnm745o86sj487huf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
